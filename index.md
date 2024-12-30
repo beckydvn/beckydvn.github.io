@@ -16,7 +16,7 @@ Hi there! I'm a first year Computing/AI MSc student. I'm currently researching h
 ### Scholarships
 - Vector AI  
 - NSERC {USRA, CGS-M}
-- Queen’s {Chancellor’s, TARRA}
+- Queen's {Chancellor's, TARRA}
 ### Competitions
 - Team was recipient of the 2024 Creative Computing Showcase: Best Video Game Award (for Stellar Synergy)
 
