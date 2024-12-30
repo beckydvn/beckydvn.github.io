@@ -12,13 +12,13 @@ Hi there! I'm a first year Computing/AI MSc student. I'm currently researching h
   - Cumulative 4.14/4.3 GPA
   - Graduated with Distinction
 
-## Skill Overview
-- 
-## Scholarships/Awards
-### Education
-test
-### (Bonus) Music
-test
+## Awards
+### Scholarships
+Vector AI, NSERC {USRA, CGS-M}, Queen’s {Chancellor’s, TARRA}
+### Competitions
+Recipient of the 2024 Creative Computing Showcase: Best Video Game Award (for Stellar Synergy)
+
+
 
 # Projects
 ## [Project1](./projects.html).
@@ -36,13 +36,17 @@ test
 - [5] [MACQ: A Holistic View of Model Acquisition Techniques](https://arxiv.org/pdf/2206.06530) • Ethan Callanan\*, Rebecca De Venezia\*, Victoria Armstrong, Alison Paredes, Tathagata Chakraborti, Christian Muise • 
 International Conference on Automated Planning and Scheduling (ICAPS) KEPS Workshop • 2022
 
-- [6] [MACQ: A Unified Library for Action Model Acquisition](https://icaps22.icaps-conference.org/demos/ICAPS_2022_paper_378.pdf) • Ethan Callanan\*, Rebecca De Venezia\*, Victoria Armstrong, Alison Paredes, Jungkoo Kang, Tathagata Chakraborti, Christian Muise • International Conference on Automated Planning and Scheduling (ICAPS) Systems Demonstratoins • 2022
+- [6] [MACQ: A Unified Library for Action Model Acquisition](https://icaps22.icaps-conference.org/demos/ICAPS_2022_paper_378.pdf) • Ethan Callanan\*, Rebecca De Venezia\*, Victoria Armstrong, Alison Paredes, Jungkoo Kang, Tathagata Chakraborti, Christian Muise • International Conference on Automated Planning and Scheduling (ICAPS) Systems Demonstrations • 2022
 
 
 \*These authors contributed equally.
 
+# Bonus
+## Other Awards
+- Achieved Level 10 Flute and Level 10 Harmony and Counterpoint (2nd highest levels at the Royal Conservatory of Music)
+- Placed 2nd in Level 10 Woodwinds at the 2020 OMFA Provincials Competition
 
-# Bonus Facts
+## Random Facts
 - I'm half Italian, half Jamaican!
 - I can beat Dr. Robotnik's Mean Bean Machine (fast-paced Tetris-like game) on the hardest difficulty. However, for whatever reason, I can't drive a vehicle in _any_ game...
 - I love prog rock (any fans of Dream Theater or Porcupine Tree?)
