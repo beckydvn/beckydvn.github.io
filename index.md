@@ -20,6 +20,6 @@ Hi there! I'm a first year Computing/AI MSc student. I'm currently researching h
 ### Competitions
 - Team was recipient of the 2024 Creative Computing Showcase: Best Video Game Award (for Stellar Synergy)
 
-# [Projects](./projects.html)
-# [Papers](./papers.html)
+# [Projects and Highlights](./projects.html)
+# [Publications](./publications.html)
 # [Bonus](./bonus.html)

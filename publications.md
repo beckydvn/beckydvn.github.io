@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Papers
+# Publications
 
 - [1] [A Goal-Directed Dialogue System for Assistance in Safety-Critical Application](https://www.ijcai.org/proceedings/2024/0870.pdf) • Prakash Jamakatel, Rebecca De Venezia, Christian Muise, and Jane Jean Kiam • International Joint Conference on Artificial Intelligence  • 2024  
 
