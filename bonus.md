@@ -7,8 +7,9 @@ layout: default
 - Placed 2nd in Level 10 Woodwinds at the 2020 OMFA Provincials Competition
 
 ## Art Portfolio
-![profile](./imgs/art.png)
-_"Hyperspeed" (acrylic paint)_
+<img src="./imgs/art.png" width="200"/>
+
+_"Hyperspeed" (medium: acrylic paint)_
 
 My art is located [here](https://rebeccadvn.wixsite.com/portfolio)!
 
