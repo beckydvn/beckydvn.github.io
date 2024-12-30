@@ -5,7 +5,16 @@ layout: default
 *headshot for Vector AI scholarship*
 
 # About Me
-
+[explain passions]
+## Education
+test
+## Skill Overview
+test
+## Scholarships/Awards
+### Education
+test
+### Music
+test
 
 # Projects
 
@@ -29,8 +38,9 @@ International Conference on Automated Planning and Scheduling (ICAPS) KEPS Works
 
 
 # Random Facts
-- I'm half Italian, half Jamaican
-- I can beat Dr. Robotnik's Mean Bean Machine on the hardest difficulty
+- I'm half Italian, half Jamaican!
+- I can beat Dr. Robotnik's Mean Bean Machine (fast-paced Tetris-like game) on the hardest difficulty. However, for whatever reason, I can't drive a vehicle in *any* game...
+- I love prog rock (any fans of Dream Theater or Porcupine Tree?)
 - I have a million artsy hobbies/passions (it's becoming a bit of a problem, honestly! 😋) This includes:
   - game design
   - knitting
