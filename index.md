@@ -1,123 +1,45 @@
 ---
 layout: default
 ---
+![profile](./imgs/vector-profile.png)
+*headshot for Vector AI scholarship*
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+# About Me
 
 
-### Definition lists can be used with HTML syntax.
+# Projects
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+# Papers
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+- [1] [*A Goal-Directed Dialogue System for Assistance in Safety-Critical Application*](https://www.ijcai.org/proceedings/2024/0870.pdf) • Prakash Jamakatel, Rebecca De Venezia, Christian Muise, and Jane Jean Kiam • International Joint Conference on Artificial Intelligence  • 2024  
 
-```
-The final element.
-```
+- [2] [*FRICODILE: Providing FRICO with Dialogue Capability*](https://openreview.net/pdf?id=RBl83m6ZIi) • Prakash Jamakatel, Rebecca De Venezia, Christian Muise, Jane Jean Kiam • International Conference on Automated Planning and Scheduling (ICAPS) Systems Demonstration • 2024
+
+- [3] [*Conversation Alignment for Task-Oriented Dialogue Agents*](https://assets.pubpub.org/p73l386a/De%20Venezia-21716794399416.pdf) • Rebecca De Venezia*, Natalie Nova*, Christian Muise • Canadian AI • 2024
+
+- [4] [*Plan4Dial: A Dialogue Planning Framework*](https://icaps23.icaps-conference.org/demos/papers/8139_paper.pdf) • Rebecca De Venezia, Christian Muise • International Conference on Automated Planning and Scheduling (ICAPS) Systems Demonstrations • 2023
+
+- [5] [*MACQ: A Holistic View of Model Acquisition Techniques*](https://arxiv.org/pdf/2206.06530) • Ethan Callanan*, Rebecca De Venezia*, Victoria Armstrong, Alison Paredes, Tathagata Chakraborti, Christian Muise • 
+International Conference on Automated Planning and Scheduling (ICAPS) KEPS Workshop • 2022
+
+- [6] [*MACQ: A Unified Library for Action Model Acquisition*](https://icaps22.icaps-conference.org/demos/ICAPS_2022_paper_378.pdf) • Ethan Callanan*, Rebecca De Venezia*, Victoria Armstrong, Alison Paredes, Jungkoo Kang, Tathagata Chakraborti, Christian Muise • International Conference on Automated Planning and Scheduling (ICAPS) Systems Demonstratoins • 2022
+
+
+*These authors contributed equally.
+
+
+# Random Facts
+- I'm half Italian, half Jamaican
+- I can beat Dr. Robotnik's Mean Bean Machine on the hardest difficulty
+- I have a million artsy hobbies/passions (it's becoming a bit of a problem, honestly! 😋) This includes:
+  - game design
+  - knitting
+  - crocheting
+  - embroidery
+  - drawing
+  - painting
+  - writing
+  - music (flute, piano, alto sax, singing, songwriting)
+  - handmade jewelry
+  - fashion
+  - interior design
