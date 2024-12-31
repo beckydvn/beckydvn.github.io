@@ -22,8 +22,12 @@ The. Since the game is multiplayer and requires a server for remote connection, 
 
 | | |
 |:-------------------------:|:-------------------------:|
-| ![showcase](./imgs/stellar-synergy/computing-showcase.jpg) | ![cne](./imgs/stellar-synergy/cne.jpg) |
-| ![playtesting-1](./imgs/stellar-synergy/playtesting-1.jpg) | ![playtesting-2](./imgs/stellar-synergy/playtesting-2.jpg)
+|<img src="./imgs/stellar-synergy/computing-showcase.jpg" width="100%"/>|<img src="./imgs/stellar-synergy/playtesting-1.jpg" width="100%"/>|
+|<img src="./imgs/stellar-synergy/cne.jpg" width="100%"/>|<img src="./imgs/stellar-synergy/playtesting-2.jpg" width="100%"/>|
+
+
+<!-- | ![showcase](./imgs/stellar-synergy/computing-showcase.jpg) | ![cne](./imgs/stellar-synergy/cne.jpg) |
+| ![playtesting-1](./imgs/stellar-synergy/playtesting-1.jpg) | ![playtesting-2](./imgs/stellar-synergy/playtesting-2.jpg) -->
 
 You can watch the demo video here:
 
@@ -35,15 +39,12 @@ You can watch the demo video here:
 ## Dialogue Planning Project
 The project GitHub is [here](https://github.com/dialogue-planning).
 
-| | |
-|:-------------------------:|:-------------------------:|
-|![icaps24](./imgs/dialogue-planning/icaps24.jpg) | ![widget](./imgs/dialogue-planning/widget-chat.png)|
 
 ### Plan4Dial
-
+![widget](./imgs/dialogue-planning/icaps24.jpg)|
 ### Conversation Alignment
 ### FRICO
-
+|![icaps24](./imgs/dialogue-planning/widget-chat.png)
 ---
 ---
 
