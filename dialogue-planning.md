@@ -47,9 +47,6 @@ I co-presented FRICODILE as a Systems Demonstration at ICAPS 2024 in Banff, Cana
 
 A demo of FRICODILE can be viewed below:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1nOUfo2ENQk?si=S-MK_o6udQpk0Fv7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1nOUfo2ENQk?si=CD5wJSRo1dwK_lJk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [back](./projects-landing.html)
