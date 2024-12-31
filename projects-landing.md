@@ -18,8 +18,8 @@ layout: default
 ## [Blocksworld Simulator](./blocksworld-sim.html)
 ![blocksworld](./imgs/blocksworld.png)
 
-## [Time to Kill (Game)](./time-to-kill.html)
-![time-to-kill](./imgs/time-to-kill.png)
+<!-- ## [Time to Kill (Game)](./time-to-kill.html)
+![time-to-kill](./imgs/time-to-kill.png) -->
 
 
 [back](./)

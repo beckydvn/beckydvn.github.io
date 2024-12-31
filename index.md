@@ -26,8 +26,7 @@ Hi there! I'm a first year Computing/AI MSc student. I'm currently researching h
 ### Other
 - An IJCAI paper I am second author on was selected by the FAA (Federal Aviation Administration) for an invited talk. This talk, held in June 2025, will be delivered to members of government agencies, including the FAA, NASA, and DOT
 
-# [Projects and Highlights](./projects-landing.html)
+# [Projects](./projects-landing.html)
 # [Publications](./publications.html)
 # [Bonus](./bonus.html)
-
-GitHub: https://github.com/beckydvn
+# [Github](https://github.com/beckydvn)
