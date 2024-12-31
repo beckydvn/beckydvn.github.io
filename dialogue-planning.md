@@ -32,14 +32,14 @@ The declarative nature of Plan4Dial allows you to get a chatbot running (and eve
 Plan4Dial was presented as a Systems Demonstration at ICAPS 2023 in Prague, Czechia.
 
 ![icaps24](./imgs/dialogue-planning/widget-chat.png)
-
+_Web-embeddable chat box with generated dialogue agent_
 
 ### Conversation Alignment
 Conversation Alignment, co-authored with Natalie Nova, is an expansion to the dialogue planning initiative that allows the developer to assess the agent's capabilities against conversation corpora. This was achieved using "conversation alignment," a tailored beam search algorithm to explore how well the agent can "align" its own capabilities with given conversation examples. The algorithm identifies gaps in what the agent can handle and gives the developer useful metrics on where the agent is failing in its conversations, e.g. actions that the agent seemingly failed to execute.
 
 ### FRICODILE
 ![widget](./imgs/dialogue-planning/icaps24.jpg)
-_photo from ICAPS 24, where FRICODILE was presented_
+_Photo from ICAPS 24, where FRICODILE was presented_
 
 FRICODILE is a collaboration with Prakash Jamakatel and Jane Jean Kiam from the University of the Bundeswehr Munich, Germany, which sprang out of a connection made at ICAPS 2023. The name "FRICODILE" stems from a prior project of theirs, "FRICO" (An AI-Enabled **Fri**endly **Co**ckpit Assistance System), and "DILE" from **DI**A**L**OGU**E**. In short, FRICO is an AI system for assisting pilots in single pilot operations, i.e. pilots with no co-pilot, with the process of flying and operating the aircraft. The project was then augmented with dialogue capabilities through Plan4Dial, allowing for a more "active" and engaging co-piloting system, creating FRICODILE. I was the second author on this project, and provided guidance on how to implement Plan4Dial with the aviation system. Currently, the system exists as a digital flight simulation.
 
