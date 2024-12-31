@@ -4,19 +4,22 @@ layout: default
 # Projects
 
 ## [Suspicious Witches: A Novel Epistemic Planning Domain (part of Master's research)](./suspicious-witches.html)
-![cover](./imgs/suspicious-witches/cover.jpg) 
+<img src="./imgs/suspicious-witches/cover.jpg" width="50%"/>
+
 
 ## [Stellar Synergy (Game)](./stellar-synergy.html)
-![poster-cropped](./imgs/stellar-synergy/poster-cropped.png) 
+<img src="./imgs/stellar-synergy/poster-cropped.png" width="50%"/>
+
 
 ## [The Dialogue Planning Initiative](./dialogue-planning.html)
-![icaps24](./imgs/dialogue-planning/widget-chat.png)
+<img src="./imgs/dialogue-planning/widget-chat.png" width="50%"/>
 
 ## [MACQ (Model Acquisition)](./macq.html)
-![macq](./imgs/macq.png)
+<img src="./imgs/macq.png" width="50%"/>
+
 
 ## [Blocksworld Simulator](./blocksworld-sim.html)
-![blocksworld](./imgs/blocksworld.png)
+<img src="./imgs/blocksworld.png" width="50%"/>
 
 <!-- ## [Time to Kill (Game)](./time-to-kill.html)
 ![time-to-kill](./imgs/time-to-kill.png) -->
