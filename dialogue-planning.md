@@ -41,13 +41,13 @@ Conversation Alignment, co-authored with Natalie Nova, is an expansion to the di
 ![widget](./imgs/dialogue-planning/icaps24.jpg)
 _photo from ICAPS 24, where FRICODILE was presented_
 
-FRICODILE is a collaboration with Prakash Jamakatel and Jane Jean Kiam from the University of the Bundeswehr Munich, Germany, which sprang out of a connection made at ICAPS 2023. The name "FRICODILE" stems from a prior project of theirs, "FRICO" (An AI-Enabled **Fri**endly **Co**ckpit Assistance System), and "DILE" from **DI**A**L**OGU**E**. In short, FRICO is an AI system for assisting single pilots, i.e. those with no co-pilot, with the process of flying and operating the aircraft. The project was then augmented with dialogue capabilities through Plan4Dial, allowing for a more "active" and engaging co-piloting system, creating FRICODILE. I was the second author on this project, and provided guidance on how to implement Plan4Dial with the aviation system. Currently, the system exists as a digital flight simulation.
+FRICODILE is a collaboration with Prakash Jamakatel and Jane Jean Kiam from the University of the Bundeswehr Munich, Germany, which sprang out of a connection made at ICAPS 2023. The name "FRICODILE" stems from a prior project of theirs, "FRICO" (An AI-Enabled **Fri**endly **Co**ckpit Assistance System), and "DILE" from **DI**A**L**OGU**E**. In short, FRICO is an AI system for assisting pilots in single pilot operations, i.e. pilots with no co-pilot, with the process of flying and operating the aircraft. The project was then augmented with dialogue capabilities through Plan4Dial, allowing for a more "active" and engaging co-piloting system, creating FRICODILE. I was the second author on this project, and provided guidance on how to implement Plan4Dial with the aviation system. Currently, the system exists as a digital flight simulation.
 
 I co-presented FRICODILE as a Systems Demonstration at ICAPS 2024 in Banff, Canada. It was also published at IJCAI and presented by the primary researchers.  The IJCAI paper was also selected by the FAA (Federal Aviation Administration) to be presented as an invited talk in June 2025 as part of their series on "New and Emerging Aviation Technologies." The talk will be delivered to members of government agencies, including the FAA, NASA, DOT, OST, NTSB, DOD, MITRE, and VOLPE.
 
 A demo of FRICODILE can be viewed below:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1nOUfo2ENQk?si=CD5wJSRo1dwK_lJk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1nOUfo2ENQk?si=S-MK_o6udQpk0Fv7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 

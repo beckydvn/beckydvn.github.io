@@ -15,6 +15,7 @@ _promotional poster for the game_
 |:-------------------------:|:-------------------------:|
 |<img src="./imgs/stellar-synergy/computing-showcase.jpg" width="100%"/> Team winning the Best Video Game Award|<img src="./imgs/stellar-synergy/playtesting-1.jpg" width="100%"/> Playtesters at the CNE|
 |<img src="./imgs/stellar-synergy/cne.jpg" width="100%"/>Team presents the game at the CNE|<img src="./imgs/stellar-synergy/playtesting-2.jpg" width="100%" />Playtesters at the CNE|
+---
 
 You can watch the demo video here:
 
